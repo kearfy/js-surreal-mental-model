@@ -1,0 +1,1 @@
+class InvalidPayload extends Error {};
